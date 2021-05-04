@@ -13585,6 +13585,10 @@ a:hover {
 {
 	border-bottom:none  !important
 }
+.content
+{
+	    padding-inline-start: 25px;
+}
 .content li
 {
 	text-transform: capitalize;

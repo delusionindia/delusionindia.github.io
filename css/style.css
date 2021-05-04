@@ -10955,7 +10955,7 @@ header.content-header.header-bgcolor .main-newmenu.dark-bg ul li a.active {
 
 .delusion .section-container {
 	position: relative;
-	padding: 0 0 5.625rem 5.625rem;
+	/* padding: 0 0 5.625rem 5.625rem; */
 	display: flex;
 	align-items: center;
 }
@@ -11213,7 +11213,7 @@ header.content-header.header-bgcolor .main-newmenu.dark-bg ul li a.active {
 @media only screen and (max-width:767px) {
 	.delusion.delusion-main .del-web-banner-common .section-container {
 		padding-top: 5.625rem;
-		padding-bottom: 10rem;
+		/* padding-bottom: 10rem; */
 	}
 }
 

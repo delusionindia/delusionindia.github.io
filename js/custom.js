@@ -3,16 +3,16 @@
 $('.regular').slick({
   autoplay: true,
   infinite: true,
-  speed: 500,
-  slidesToShow: 3,
+  speed: 100,
+  slidesToShow: 3,  infinite: true,
   slidesToScroll: 3,
   responsive: [
     {
       breakpoint: 1024,
       settings: {
         slidesToShow: 2,
-        slidesToScroll: 2,
-        infinite: true,
+        slidesToScroll: 1,
+      
         dots: true
       }
     },

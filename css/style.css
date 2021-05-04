@@ -1,4 +1,4 @@
-/*!
+\/*!
  * Bootstrap v4.5.2 (https://getbootstrap.com/)
  * Copyright 2011-2020 The Bootstrap Authors
  * Copyright 2011-2020 Twitter, Inc.
@@ -11918,7 +11918,7 @@ footer.content-footer .standalone-footer .contact-block .haruki-form .btn-wrappe
 }
 
 footer.content-footer .standalone-footer .contact-block .haruki-form .contact-submit-btn2 {
-	background-image: url(images/arrow-b.svg);
+	background-image: url(../images/arrow-b.svg);
 	background-repeat: no-repeat;
 	background-position: 107px 50%;
 	background-size: 36px 8px;
@@ -11942,7 +11942,7 @@ footer.content-footer .standalone-footer .contact-block .haruki-form .contact-su
 }
 
 footer.content-footer .standalone-footer .contact-block .haruki-form .contact-submit-btn2:focus,footer.content-footer .standalone-footer .contact-block .haruki-form .contact-submit-btn2:hover {
-	background-image: url(images/arrow-i.svg);
+	background-image: url(../images/arrow-i.svg);
 	border-color: #000;
 }
 
@@ -12129,7 +12129,7 @@ footer.content-footer {
 }
 
 .btn.btn-white-greenarrow.arrow-btn .arrow-img {
-	background-image: url(images/arrow-g.svg);
+	background-image: url(../images/arrow-g.svg);
 }
 
 .btn.btn-hollow-white-greenicon.arrow-btn .arrow-img {
@@ -12995,11 +12995,11 @@ footer.content-footer .copyrights-wrapper .wp-vip a {
 }
 
 .btn.btn-white:focus.arrow-btn .arrow-img,.btn.btn-white:hover.arrow-btn .arrow-img {
-	background-image: url(images/arrow-i.svg);
+	background-image: url(../images/arrow-i.svg);
 }
 
 .btn.btn-white.arrow-btn .arrow-img {
-	background-image: url(images/arrow-b.svg);
+	background-image: url(../images/arrow-b.svg);
 }
 
 .btn.btn-white-greenarrow {
@@ -13015,11 +13015,11 @@ footer.content-footer .copyrights-wrapper .wp-vip a {
 }
 
 .btn.btn-white-greenarrow:focus.arrow-btn .arrow-img,.btn.btn-white-greenarrow:hover.arrow-btn .arrow-img {
-	background-image: url(images/arrow-i.svg);
+	background-image: url(../images/arrow-i.svg);
 }
 
 .btn.btn-white-greenarrow.arrow-btn .arrow-img {
-	background-image: url(images/arrow-g.svg);
+	background-image: url(../images/arrow-g.svg);
 }
 
 .btn.btn-hollow-green {
@@ -13035,11 +13035,11 @@ footer.content-footer .copyrights-wrapper .wp-vip a {
 }
 
 .btn.btn-hollow-green:focus.arrow-btn .arrow-img,.btn.btn-hollow-green:hover.arrow-btn .arrow-img {
-	background-image: url(images/arrow-i.svg);
+	background-image: url(../images/arrow-i.svg);
 }
 
 .btn.btn-hollow-green.arrow-btn .arrow-img {
-	background-image: url(images/arrow-g.svg);
+	background-image: url(../images/arrow-g.svg);
 }
 
 .btn.btn-hollow-grayborder {
@@ -13055,11 +13055,11 @@ footer.content-footer .copyrights-wrapper .wp-vip a {
 }
 
 .btn.btn-hollow-grayborder:focus.arrow-btn .arrow-img,.btn.btn-hollow-grayborder:hover.arrow-btn .arrow-img {
-	background-image: url(images/arrow-i.svg);
+	background-image: url(../images/arrow-i.svg);
 }
 
 .btn.btn-hollow-grayborder.arrow-btn .arrow-img {
-	background-image: url(images/arrow-g.svg);
+	background-image: url(../images/arrow-g.svg);
 }
 
 .btn.btn-hollow-black {
@@ -13075,11 +13075,11 @@ footer.content-footer .copyrights-wrapper .wp-vip a {
 }
 
 .btn.btn-hollow-black:focus.arrow-btn .arrow-img,.btn.btn-hollow-black:hover.arrow-btn .arrow-img {
-	background-image: url(images/arrow-i.svg);
+	background-image: url(../images/arrow-i.svg);
 }
 
 .btn.btn-hollow-black.arrow-btn .arrow-img {
-	background-image: url(images/arrow-b.svg);
+	background-image: url(../images/arrow-b.svg);
 }
 
 .btn.btn-hollow-white,.btn.btn-hollow-white-icon {
@@ -13100,12 +13100,12 @@ footer.content-footer .copyrights-wrapper .wp-vip a {
 }
 
 .btn.btn-hollow-white-icon:focus.arrow-btn .arrow-img,.btn.btn-hollow-white-icon:hover.arrow-btn .arrow-img {
-	background-image: url(images/arrow-i.svg);
+	background-image: url(../images/arrow-i.svg);
 	transform: translateZ(10px);
 }
 
 .btn.btn-hollow-white-icon.arrow-btn .arrow-img {
-	background-image: url(images/arrow-i.svg);
+	background-image: url(../images/arrow-i.svg);
 }
 
 .btn.btn-hollow-white-greenicon {
@@ -13123,12 +13123,12 @@ footer.content-footer .copyrights-wrapper .wp-vip a {
 }
 
 .btn.btn-hollow-white-greenicon:focus.arrow-btn .arrow-img,.btn.btn-hollow-white-greenicon:hover.arrow-btn .arrow-img {
-	background-image: url(images/arrow-i.svg);
+	background-image: url(../images/arrow-i.svg);
 	transform: translateZ(10px);
 }
 
 .btn.btn-hollow-white-greenicon.arrow-btn .arrow-img {
-	background-image: url(images/arrow-g.svg);
+	background-image: url(../images/arrow-g.svg);
 }
 
 .common-page header.content-header.header-bgcolor {

@@ -13703,6 +13703,7 @@ footer.content-footer .workwith-us .title
     font-weight: 700;
     margin-top: 20px;
 }
+}
 .sprite-services{-webkit-animation:spriteservices 1s steps(32) infinite;animation:spriteservices 1s steps(32) infinite;height:58px;width:66px;margin-bottom:1.88rem}@-webkit-keyframes spriteservices{0%{background-position:0}to{background-position:-2112px}}@keyframes spriteservices{0%{background-position:0}to{background-position:-2112px}}
 .car {
     border: 1px solid #ccc;
